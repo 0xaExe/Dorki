@@ -5,6 +5,10 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 
 ---
 
+![dorki](https://github.com/user-attachments/assets/eb64918d-a33f-460a-aa2e-7c43af6700bd)
+
+---
+
 ## Features
 
 - Interactive CLI for building Google dork queries
