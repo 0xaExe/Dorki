@@ -58,7 +58,5 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 
 - If you do **not** add any API keys, the tool will use direct scraping (may be limited or blocked by Google).
 - To improve results and avoid scraping limits, add your API keys.
-- Dependencies are installed automatically on first run.
-
 ---
 
