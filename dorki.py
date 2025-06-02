@@ -1,23 +1,4 @@
 #!/usr/bin/env python3
-import sys
-import subprocess
-
-def ensure_package(pkg):
-    try:
-        __import__(pkg)
-    except ImportError:
-        print(f"\033[91m[!] {pkg} not found, installing...\033[0m")
-        try:
-            import ensurepip
-            ensurepip.bootstrap()
-        except Exception:
-            pass
-        subprocess.check_call([sys.executable, "-m", "pip", "install", "--user", pkg])
-        print(f"\033[92m[+] {pkg} installed.\033[0m")
-
-# Ensure required packages
-ensure_package("requests")
-ensure_package("fake_useragent")
 
 import requests
 import os
