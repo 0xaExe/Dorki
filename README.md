@@ -47,7 +47,7 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
    Or make it executable:
    ```sh
    chmod +x dorki.py
-   ./dorki.py
+   cp dorki.py /usr/local/bin/dorki
    ```
 
 4. **Follow the prompts** to enter your dork fields.
