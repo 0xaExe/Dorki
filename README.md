@@ -58,10 +58,3 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 
 ---
 
-## Disclaimer
-
-This tool is for educational and research purposes only.  
-Use responsibly and respect the terms of service of search engines and APIs.
-
----
-
