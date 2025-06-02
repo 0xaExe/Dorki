@@ -15,11 +15,10 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 
 ---
 ## Requirements
-```sh
-pip install --user requests fake-useragent
-```
+   ```sh
+   sudo apt install python3-requests python3-fake-useragent
+   ```
 ---
-
 ## Usage
 
 1. **Clone or Download**
