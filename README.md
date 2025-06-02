@@ -65,6 +65,3 @@ Use responsibly and respect the terms of service of search engines and APIs.
 
 ---
 
-## License
-
-MIT License
