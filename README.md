@@ -19,8 +19,8 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 
 1. **Clone or Download**
    ```sh
-   git clone https://github.com/yourusername/dorki.git
-   cd dorki
+   git clone https://github.com/yourusername/Dorki.git
+   cd Dorki
   
    ```
 
@@ -37,13 +37,13 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 
 3. **Run the Tool**
    ```sh
-   python dorki
+   python3 dorki.py
    ```
 
    Or make it executable:
    ```sh
-   chmod +x dorki
-   ./dorki
+   chmod +x dorki.py
+   ./dorki.py
    ```
 
 4. **Follow the prompts** to enter your dork fields.
