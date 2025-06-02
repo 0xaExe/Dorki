@@ -14,7 +14,6 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 - Interactive CLI for building Google dork queries
 - Supports Google, Bing, and GoDuck APIs (just add your keys in the script)
 - Falls back to direct scraping if no API keys are set
-- Auto-installs dependencies (`requests`, `fake-useragent`) if missing
 - Colorful terminal output and banner
 
 ---
