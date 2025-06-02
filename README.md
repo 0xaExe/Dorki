@@ -14,6 +14,11 @@ Supports Google, Bing, and GoDuck APIs (if you add your keys), or works with cla
 - Colorful terminal output and banner
 
 ---
+## Requirements
+```sh
+pip install requests fake-useragent
+```
+---
 
 ## Usage
 
